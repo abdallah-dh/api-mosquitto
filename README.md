@@ -1,2 +1,2 @@
 # mosquitto-api
-API for mosquitto broker, refer to https://github.com/cunbex/Smart-House-IOT for more info.
+API for mosquitto broker, refer to https://github.com/abdallah-dh/Smart-Home-.git for more info.
